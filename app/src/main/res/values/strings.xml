@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DtbsMobile</string>
+    <string name="botao_signin">Sign in</string>
+    <string name="eyepicture">eye</string>
+    <string name="textview1">email</string>
+    <string name="userpicture">userlogo</string>
+    <string name="keypicture">keylogo</string>
+    <string name="passworduser">password</string>
+    <string name="facebookpicture">facebooklogo</string>
+    <string name="googlepicture" />
+    <string name="twitterpicture">twitterlogo</string>
+</resources>
